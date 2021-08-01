@@ -11,12 +11,12 @@ ADD CLEAR AND CONCISE WEBPAGE TITLE IN TITLE TAGS
 1. Added "Horiseon - Making Brand Advertising Easier"
 
 ADD SEMANTIC HTML TAGS
-1. Changed <div class="header"> to: <header>
+1. Changed div class="header" to: header
 	- updated style.css sheet to reflect new selector tag 
-2. Changed <div class="hero"> to <section class="hero">
-3. Changed <div class="content"> to <section class="content">
-4. Changed <div class="benefits> to <section class="benefits>
-5. Changed <div class="footer"> to: <footer>
+2. Changed div class="hero" to section class="hero"
+3. Changed div class="content" to section class="content"
+4. Changed div class="benefits to section class="benefits
+5. Changed div class="footer" to: footer
 	- updated style.css sheet to reflect new selector tag
 	
 ADD ALT ATTRIBUTES TO IMAGE ELEMENTS
